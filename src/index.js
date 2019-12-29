@@ -11,7 +11,7 @@ ReactDOM.render(
   <div>
     <FacebookButton/>
     <TwitterButton/> 
-    <IconBar orientation="horizontal" />
+    <IconBar orientation="vertical" />
   </div>, 
   document.getElementById('root'));
 
